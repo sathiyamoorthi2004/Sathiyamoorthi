@@ -3,14 +3,14 @@
 <img align="top" alt="banner" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <h1 align="center">Hi 👋, I'm Sathiyamoorthi S</h1>
-<h3 align="center">Sathiyamoorthi S is a passionate **MERN Stack Developer** with hands-on experience in web development and backend technologies through internships and various self-initiated projects. Proficient in Java, JavaScript, HTML/CSS, and the MERN stack, he has developed projects like a Twitter clone, an online food ordering system, and a responsive portfolio website, showcasing his ability to create dynamic, user-friendly applications. His problem-solving skills are further highlighted through active participation on coding platforms such as Leetcode and Hackerrank. With a solid foundation in both frontend and backend development, Sathiyamoorthi is a highly motivated individual, eager to contribute to innovative projects in the tech industry.</h3>
+<h3 align="center">Sathiyamoorthi S is a passionate MERN Stack Developer and aspiring Data Scientist with hands-on experience in web development, backend technologies, and data analysis through internships and self-initiated projects. Proficient in Java, JavaScript, HTML/CSS, the MERN stack, Python, NumPy, Pandas, Matplotlib, Seaborn, SQL, and Scikit-learn, he has developed projects like a Twitter clone, an online food ordering system, a responsive portfolio website, and basic data analysis projects, showcasing his ability to create dynamic, user-friendly applications and extract meaningful insights from data. His problem-solving skills are further highlighted through active participation on coding platforms such as Leetcode and Hackerrank. With a solid foundation in both frontend/backend development and data science, Sathiyamoorthi is a highly motivated individual, eager to contribute to innovative projects in the tech and AI/data industry.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sathiyamoorthi2004&label=Profile%20views&color=0e75b6&style=flat" alt="sathiyamoorthi2004" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack,Data Science**
 
-- 💬 Ask me about **MongoDB,Express Js, React Js,Node Js**
+- 💬 Ask me about **MongoDB, Express Js, React Js, Node Js, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statistics, Regression, Classification**
 
 - 📫 How to reach me **sathiyamoorthis9213@gmail.com**
 
