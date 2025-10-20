@@ -1,12 +1,13 @@
 ### Hi there
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-  <!-- First GIF on top-left -->
-  <img 
-    src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" 
-    alt="banner" 
-    width="400">
-
+<div style="position: relative; width: 100%;">
+  
+  <div style="text-align: center;">
+    <img 
+      src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" 
+      alt="top-center banner" 
+      width="400">
+  </div>
 
 <h1 align="center">Hi 👋, I'm Sathiyamoorthi S</h1>
 <h3 align="center">Sathiyamoorthi S is a passionate MERN Stack Developer and aspiring Data Scientist with hands-on experience in web development, backend technologies, and data analysis through internships and self-initiated projects. Proficient in Java, JavaScript, HTML/CSS, the MERN stack, Python, NumPy, Pandas, Matplotlib, Seaborn, SQL, and Scikit-learn, he has developed projects like a Twitter clone, an online food ordering system, a responsive portfolio website, and basic data analysis projects, showcasing his ability to create dynamic, user-friendly applications and extract meaningful insights from data. His problem-solving skills are further highlighted through active participation on coding platforms such as Leetcode and Hackerrank. With a solid foundation in both frontend/backend development and data science, Sathiyamoorthi is a highly motivated individual, eager to contribute to innovative projects in the tech and AI/data industry.</h3>
