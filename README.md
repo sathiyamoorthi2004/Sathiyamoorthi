@@ -5,15 +5,13 @@
   <img 
     src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" 
     alt="banner" 
-    style="position: absolute; top: 0; left: 0; width: 400px; height: auto;"
-  >
+    style="position: absolute; top: 0; left: 0; width: 400px; height: auto;">
 
   <!-- Second GIF on top-right -->
   <img 
     src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" 
     alt="banner" 
-    style="position: absolute; top: 0; right: 0; width: 400px; height: auto;"
-  >
+    style="position: absolute; top: 0; right: 0; width: 400px; height: auto;">
 </div>
 
 
