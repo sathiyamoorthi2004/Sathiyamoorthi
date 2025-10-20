@@ -1,8 +1,21 @@
 ### Hi there
 
-<img align="top" alt="banner" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<div style="position: relative; width: 100%; height: 250px;">
+  <!-- First GIF on top-left -->
+  <img 
+    src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" 
+    alt="banner" 
+    style="position: absolute; top: 0; left: 0; width: 400px; height: auto;"
+  >
 
-<img align="top-right" alt="banner" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
+  <!-- Second GIF on top-right -->
+  <img 
+    src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif" 
+    alt="banner" 
+    style="position: absolute; top: 0; right: 0; width: 400px; height: auto;"
+  >
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Sathiyamoorthi S</h1>
 <h3 align="center">Sathiyamoorthi S is a passionate MERN Stack Developer and aspiring Data Scientist with hands-on experience in web development, backend technologies, and data analysis through internships and self-initiated projects. Proficient in Java, JavaScript, HTML/CSS, the MERN stack, Python, NumPy, Pandas, Matplotlib, Seaborn, SQL, and Scikit-learn, he has developed projects like a Twitter clone, an online food ordering system, a responsive portfolio website, and basic data analysis projects, showcasing his ability to create dynamic, user-friendly applications and extract meaningful insights from data. His problem-solving skills are further highlighted through active participation on coding platforms such as Leetcode and Hackerrank. With a solid foundation in both frontend/backend development and data science, Sathiyamoorthi is a highly motivated individual, eager to contribute to innovative projects in the tech and AI/data industry.</h3>
